@@ -28,9 +28,9 @@ This study covers the assignments of the SQL course in the patika dev.
 > Example 10
 <img src = "images\odev10.png" width = 900>
 
-> SQL - Odev11
+> Example 11
 <img src = "images\odev11.1.png" width = 900>
 <img src = "images\odev11.2.png" width = 900>
 
-> SQL - Odev12
+> Example 12
 <img src = "images\odev12.png" width = 900>
